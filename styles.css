@@ -1,0 +1,51 @@
+h1
+{
+ background-color:aqua;
+ color:red;
+border: 10px solid grey;
+border-radius:50% 50% 50% ;
+
+}
+
+#input
+{
+width:150px;
+}
+
+#form-div
+{
+ display:none;
+}
+#reset
+{
+ display:none;
+}
+#result
+{
+ display:none;
+}
+#centre
+{
+ position:absolute;
+ top:20%;
+ left:30%;
+ margin:auto;
+ width:25%;
+ border:2px solid grey;
+ padding: 40px;
+border-radius:20px;
+background-color: #008b8b47;
+box-shadow: 5px 5px 5px 5px grey;
+}
+body
+{
+ background-color: #6da971a6;
+ 
+}
+
+
+#result-div
+{
+display:none;
+}
+
